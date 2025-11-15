@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center">hello, I'm Kryptida :3</h1>
-  <h3 align="center">Cloud Engineer | DevOps & DevSecOps</h3>
+  <h3 align="center">Cloud Engineer | DevOps | DevSecOps</h3>
 </p>
 
 <p align="center">
