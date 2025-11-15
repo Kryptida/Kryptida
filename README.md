@@ -44,7 +44,7 @@
 
 ---
 
-## ✨ Featured Projects
+## ✨ Featured Projects (TO BE UPDATED)
 
 <!-- Add your project links -->
 - [Project X](N/A) — Automated cloud monitoring & alerting
