@@ -1,6 +1,6 @@
 <p align="center">
-  <h1 align="center">hello, I'm Kryptida :3</h1>
-  <h3 align="center">Cloud Engineer | DevOps | DevSecOps</h3>
+  <h1 align="center">hello, I'm Kryptida!</h1>
+  <h3 align="center">Cloud | DevOps | DevSecOps</h3>
 </p>
 
 <p align="center">
@@ -14,8 +14,8 @@
 ---
 
 ## 🐛About Me
-- 💻 **Role:** Cloud Engineer  
-- 🎮 **Interests:** Video games, anime, movies, hiking, sightseeing  
+- 💻 **Role:** DevOps Engineer  
+- 🎮 **Interests:** Video games, anime, movies, sightseeing  
 - 🌌 **Funsies:** Building secure and automated cloud systems, possibly with a cute trail behind!
 
 > Turning complex cloud & security problems into sleek, automated solutions.
@@ -35,21 +35,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50" />
   
-  <!-- Cybersecurity / Automation -->
+  <!-- Automation -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" />
 </p>
 
-- **Specialties:** Cybersecurity blue team, DevOps, DevSecOps, Cloud, Automation, Scripting  
-- **Languages:** Bash, Python, CSS  
+- **Specialties:** DevOps, DevSecOps, Cloud, Automation, Scripting  
+- **Languages:** Bash, Python, CSS
 
 ---
 
 ## ✨ Featured Projects (TO BE UPDATED)
 
 <!-- Add your project links -->
-- [Project X](N/A) — Automated cloud monitoring & alerting
-- [Project Y](N/A) — Blue team security toolkit
-- [Project Z](N/A) — Scripting & automation playground
+- [Project X](N/A) — Automated cloud monitoring & alerting (TBD)
+- [Project Y](N/A) — Blue team security toolkit (TBD)
+- [Project Z](N/A) — Scripting & automation playground (TBD)
 
 <p align="center">
   <img src="./assets/flowers-banner.png" width="400" alt="Project Preview" />
@@ -66,9 +66,9 @@
 ---
 
 ## 🎮 Fun Facts
-- can automate boring tasks before fully waking up  
+- can automate boring tasks to ease life
 - vidya are my break fuel
-- hiking steers my mind clear of any bad thoughts :3  
+- creative solutions for lazy people
 
 ---
 
