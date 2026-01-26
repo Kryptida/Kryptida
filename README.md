@@ -14,11 +14,8 @@
 ---
 
 ## 🐛About Me
-- 💻 **Role:** DevOps Engineer  
-- 🎮 **Interests:** Video games, anime, movies, sightseeing  
-- 🌌 **Funsies:** Building secure and automated cloud systems, possibly with a cute trail behind!
-
-> Turning complex cloud & security problems into sleek, automated solutions.
+- 💻 **Role:** Junior DevOps Engineer
+- 🎮 **Interests:** Video games, anime, movies, sightseeing
 
 ---
 
@@ -68,9 +65,5 @@
 ## 🎮 Fun Facts
 - can automate boring tasks to ease life
 - vidya are my break fuel
-- creative solutions for lazy people
 
 ---
-
-## 🔮 Last words
-> security and systems are fun!!!!
