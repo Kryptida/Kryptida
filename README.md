@@ -15,7 +15,7 @@
 
 ## 🐛About Me
 - 💻 **Role:** Junior DevOps Engineer
-- 🎮 **Interests:** Video games, anime, movies, sightseeing
+- 🎮 **Interests:** Video games, movies, sightseeing
 
 ---
 
