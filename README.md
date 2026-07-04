@@ -3,7 +3,7 @@ Self-taught infra builder, figuring more DevOps as I go!
 
 ## Contact me at
 
-[GitHub](https://github.com/Kryptida) | [Email](mailto:[heshamyasser691@gmail.com])
+[Email](mailto:[heshamyasser691@gmail.com]) | [Kryptida.dev]()
 
 ---
 
