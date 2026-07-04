@@ -1,4 +1,4 @@
-Self-taught infra builder, figuring more DevOps as I go!
+Self-taught infra builder, figuring out more DevOps as I go!
 
 
 ## Contact me at
